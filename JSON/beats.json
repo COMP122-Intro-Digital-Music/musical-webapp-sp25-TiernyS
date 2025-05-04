@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "kick",
+    "pitch": "A3",
+    "pattern": "1x1xxx1x111x"
+  },
+  {
+    "name": "C4 Claps",
+    "pitch": "C4",
+    "pattern": "1000"
+  },
+  {
+    "name": "Closed Hi-Hat",
+    "pitch": "F4",
+    "pattern": "111x1xx1xxxxx111111x1xxx1"
+  }
+]
