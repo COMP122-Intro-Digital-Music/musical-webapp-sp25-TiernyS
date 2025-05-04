@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Turn Up",
+    "file": "samples/Turn_Up.mp3",
+    "bpm": 120,
+    "loop": 1,
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "9+10=21",
+    "file": "samples/9_plus_10_equals_21.mp3",
+    "bpm": 120,
+    "loop": 1,
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Country Boy",
+    "file": "samples/Country_Boy_I_Love_You.mp3",
+    "bpm": 120,
+    "loop": 1,
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
